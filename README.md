@@ -17,3 +17,7 @@
   - src/serviceWorker.js
 
 - Remove unascessary content into App.js and index.js
+
+- Install eslint -D
+- Execute yarn eslint --init
+- Install prettier and configure .eslintrc and .prettierrc
